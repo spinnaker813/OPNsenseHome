@@ -287,7 +287,7 @@
       </nextcloud>
       <git version="1.0.0">
         <enabled>1</enabled>
-        <url>https://github.com/spinnaker813/opnsense.git</url>
+        <url>ssh://github.com/spinnaker813/opnsense.git</url>
         <branch>master</branch>
         <privkey>-----BEGIN OPENSSH PRIVATE KEY-----&#xD;
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZWQyNTUxOQAAACCar+QpMUk/LAIsCjGAbb4JfL/5A8lIvzKsFckp45Kh5QAAAJDELSRPxC0kTwAAAAtzc2gtZWQyNTUxOQAAACCar+QpMUk/LAIsCjGAbb4JfL/5A8lIvzKsFckp45Kh5QAAAEAKImJQ2PKuAAuCHa01cvmoYTByLS61ClKh5dkIfbUFJZqv5CkxST8sAiwKMYBtvgl8v/kDyUi/MqwVySnjkqHlAAAAB2Rlc2t0b3ABAgMEBQY=&#xD;
@@ -466,7 +466,7 @@ b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZWQyNTUxOQAA
   </widgets>
   <revision>
     <username>root@192.168.0.119</username>
-    <time>1628199416.2011</time>
+    <time>1628199432.435</time>
     <description>/diag_backup.php made changes</description>
   </revision>
   <OPNsense>
