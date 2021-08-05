@@ -291,7 +291,7 @@
         <branch>master</branch>
         <privkey/>
         <user>spinnaker813</user>
-        <password/>
+        <password>Qn12TjtvuNuU!u*0Q2iq</password>
       </git>
     </backup>
     <firmware version="1.0.0">
@@ -464,7 +464,7 @@
   </widgets>
   <revision>
     <username>root@192.168.0.119</username>
-    <time>1628200113.9614</time>
+    <time>1628200142.1395</time>
     <description>/diag_backup.php made changes</description>
   </revision>
   <OPNsense>
