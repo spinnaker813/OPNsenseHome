@@ -329,6 +329,7 @@
       <media/>
       <mediaopt/>
       <dhcp6-ia-pd-len>0</dhcp6-ia-pd-len>
+      <descr>WAN</descr>
     </wan>
     <lan>
       <enable>1</enable>
@@ -341,6 +342,7 @@
       <mediaopt/>
       <gateway/>
       <gatewayv6/>
+      <descr>LAN</descr>
     </lan>
     <lo0>
       <internal_dynamic>1</internal_dynamic>
@@ -468,7 +470,7 @@
   </widgets>
   <revision>
     <username>root@192.168.0.119</username>
-    <time>1628599132.3709</time>
+    <time>1628599142.2618</time>
     <description>/interfaces_assign.php made changes</description>
   </revision>
   <OPNsense>
