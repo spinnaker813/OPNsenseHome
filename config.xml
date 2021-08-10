@@ -354,6 +354,10 @@
       <type>none</type>
       <virtual>1</virtual>
     </lo0>
+    <opt1>
+      <descr>OPT1</descr>
+      <if>zta1ivkmol950r7</if>
+    </opt1>
   </interfaces>
   <dhcpd>
     <lan>
@@ -463,9 +467,9 @@
     <column_count>3</column_count>
   </widgets>
   <revision>
-    <username>(system)</username>
-    <time>1628519659.6709</time>
-    <description>/usr/local/opnsense/scripts/firmware/register.php made changes</description>
+    <username>root@192.168.0.119</username>
+    <time>1628599132.3709</time>
+    <description>/interfaces_assign.php made changes</description>
   </revision>
   <OPNsense>
     <Firewall>
@@ -550,8 +554,8 @@
       <keyPairs/>
     </IPsec>
     <Interfaces>
-      <loopbacks version="1.0.0"/>
-      <vxlans version="1.0.1"/>
+      <loopbacks/>
+      <vxlans/>
     </Interfaces>
     <OpenVPNExport version="0.0.1">
       <servers/>
@@ -1150,5 +1154,5 @@
     <openvpn-server/>
     <openvpn-client/>
   </openvpn>
-  <staticroutes version="1.0.0"/>
+  <staticroutes/>
 </opnsense>
