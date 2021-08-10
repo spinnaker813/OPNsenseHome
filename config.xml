@@ -286,7 +286,7 @@
         <backupdir>OPNsense-Backup</backupdir>
       </nextcloud>
       <git version="1.0.0">
-        <enabled>1</enabled>
+        <enabled>0</enabled>
         <url>ssh://github.com:spinnaker813/opnsense.git</url>
         <branch>master</branch>
         <privkey>-----BEGIN OPENSSH PRIVATE KEY-----&#xD;
@@ -481,7 +481,7 @@ v/kDyUi/MqwVySnjkqHlAAAAB2Rlc2t0b3ABAgMEBQY=&#xD;
   </widgets>
   <revision>
     <username>root@192.168.0.119</username>
-    <time>1628600044.1679</time>
+    <time>1628600055.3384</time>
     <description>/diag_backup.php made changes</description>
   </revision>
   <OPNsense>
