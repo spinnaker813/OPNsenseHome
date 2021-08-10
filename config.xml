@@ -357,8 +357,13 @@
       <virtual>1</virtual>
     </lo0>
     <opt1>
-      <descr>OPT1</descr>
       <if>zta1ivkmol950r7</if>
+      <descr>ZeroTier</descr>
+      <enable>1</enable>
+      <lock>1</lock>
+      <spoofmac/>
+      <ipaddr>10.147.18.192</ipaddr>
+      <subnet>32</subnet>
     </opt1>
   </interfaces>
   <dhcpd>
@@ -470,8 +475,8 @@
   </widgets>
   <revision>
     <username>root@192.168.0.119</username>
-    <time>1628599142.2618</time>
-    <description>/interfaces_assign.php made changes</description>
+    <time>1628599437.9176</time>
+    <description>/interfaces.php made changes</description>
   </revision>
   <OPNsense>
     <Firewall>
@@ -1156,5 +1161,10 @@
     <openvpn-server/>
     <openvpn-client/>
   </openvpn>
-  <staticroutes/>
+  <staticroutes>
+    <route/>
+  </staticroutes>
+  <ppps>
+    <ppp/>
+  </ppps>
 </opnsense>
