@@ -480,9 +480,9 @@ v/kDyUi/MqwVySnjkqHlAAAAB2Rlc2t0b3ABAgMEBQY=&#xD;
     <column_count>3</column_count>
   </widgets>
   <revision>
-    <username>root@192.168.0.119</username>
-    <time>1628600592.0504</time>
-    <description>/diag_backup.php made changes</description>
+    <username>(system)</username>
+    <time>1628600755.4246</time>
+    <description>/usr/local/opnsense/mvc/script/run_migrations.php made changes</description>
   </revision>
   <OPNsense>
     <Firewall>
@@ -567,8 +567,8 @@ v/kDyUi/MqwVySnjkqHlAAAAB2Rlc2t0b3ABAgMEBQY=&#xD;
       <keyPairs/>
     </IPsec>
     <Interfaces>
-      <loopbacks/>
-      <vxlans/>
+      <loopbacks version="1.0.0"/>
+      <vxlans version="1.0.1"/>
     </Interfaces>
     <OpenVPNExport version="0.0.1">
       <servers/>
@@ -1167,9 +1167,7 @@ v/kDyUi/MqwVySnjkqHlAAAAB2Rlc2t0b3ABAgMEBQY=&#xD;
     <openvpn-server/>
     <openvpn-client/>
   </openvpn>
-  <staticroutes>
-    <route/>
-  </staticroutes>
+  <staticroutes version="1.0.0"/>
   <ppps>
     <ppp/>
   </ppps>
