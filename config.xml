@@ -289,9 +289,15 @@
         <enabled>1</enabled>
         <url>https://github.com/spinnaker813/opnsense.git</url>
         <branch>master</branch>
-        <privkey/>
+        <privkey>-----BEGIN OPENSSH PRIVATE KEY-----&#xD;
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW&#xD;
+QyNTUxOQAAACCar+QpMUk/LAIsCjGAbb4JfL/5A8lIvzKsFckp45Kh5QAAAJDELSRPxC0k&#xD;
+TwAAAAtzc2gtZWQyNTUxOQAAACCar+QpMUk/LAIsCjGAbb4JfL/5A8lIvzKsFckp45Kh5Q&#xD;
+AAAEAKImJQ2PKuAAuCHa01cvmoYTByLS61ClKh5dkIfbUFJZqv5CkxST8sAiwKMYBtvgl8&#xD;
+v/kDyUi/MqwVySnjkqHlAAAAB2Rlc2t0b3ABAgMEBQY=&#xD;
+-----END OPENSSH PRIVATE KEY-----</privkey>
         <user>spinnaker813</user>
-        <password>Qn12TjtvuNuU!u*0Q2iq</password>
+        <password/>
       </git>
     </backup>
     <firmware version="1.0.0">
@@ -475,7 +481,7 @@
   </widgets>
   <revision>
     <username>root@192.168.0.119</username>
-    <time>1628599769.8544</time>
+    <time>1628599863.3963</time>
     <description>/diag_backup.php made changes</description>
   </revision>
   <OPNsense>
